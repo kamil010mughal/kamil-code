@@ -1,0 +1,5 @@
+I have text files that can be thousands of lines. I am hoping that there is a way to search specific columns and replace non alpha characters with spaces. The files have 5 different types of data and I can’t have any non alpha characters in the first and last names columns or else the file would be rejected. I need to be able to search only the second and third columns. Is there a way to highlight those 2 columns and then do a search and replace? If that is possible, can a parameter be set to replace all non alpha characters at once?
+
+200068897 LLC1 BLUEONI 6085264 20240209
+201499188 LLC_ LAKISHM 6085269 20240209
+720253950 CUR EASTERN 6085270 20240209
