@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line=from-main
+=======
+line=from-branch-a
+>>>>>>> conflict/branch-a
