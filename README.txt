@@ -16,3 +16,4 @@ This demo also includes an image with changes on a branch for examination of ima
 as long as you love me as long as you care justin bieber
 
 LONGINESS
+Demo deploy via service runner (Sep 24)
